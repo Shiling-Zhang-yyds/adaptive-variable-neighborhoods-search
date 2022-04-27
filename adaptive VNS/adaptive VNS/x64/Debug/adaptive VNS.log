@@ -1,0 +1,8 @@
+﻿  源.cpp
+C:\Users\Administrator\Desktop\自适应VNS\adaptive VNS\adaptive VNS\源.cpp(121,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\自适应VNS\adaptive VNS\adaptive VNS\源.cpp(311,4): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\自适应VNS\adaptive VNS\adaptive VNS\源.cpp(342,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\自适应VNS\adaptive VNS\adaptive VNS\源.cpp(651,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\自适应VNS\adaptive VNS\adaptive VNS\源.cpp(678,7): warning C4101: “check_exist”: 未引用的局部变量
+C:\Users\Administrator\Desktop\自适应VNS\adaptive VNS\adaptive VNS\源.cpp(1437,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  adaptive VNS.vcxproj -> C:\Users\Administrator\Desktop\自适应VNS\adaptive VNS\x64\Debug\adaptive VNS.exe
